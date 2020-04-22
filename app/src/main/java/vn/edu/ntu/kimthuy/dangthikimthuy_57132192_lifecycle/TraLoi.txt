@@ -1,0 +1,4 @@
+cau 4: Khi bấm nút back thì onPause, onStop, onDestroy sẽ chạy
+       khi mở lại thì onCreart, onStart, onResume sẽ chạy
+cau 6: khi lưu thì lưu thông tin của ứng dụng thì lưu ở onPause, on Stop
+       hiển thị thông tin của ứng dụng thì hiển thị ở onResume
